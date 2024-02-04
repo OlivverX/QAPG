@@ -5,7 +5,7 @@ QAPG is a QA software testing technique, which can generate general test inputs 
 ### Run QAPG
 
 run QAPG to generate all new test cases and detected bugs. 
-The results are saved in path `QAQA/results/`
+The results are saved in path `QAPG/results/`
 
 ```
 cd script/
